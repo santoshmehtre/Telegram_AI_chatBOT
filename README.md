@@ -30,5 +30,5 @@ AI chatbot with open AI and Telegram using program in Python
 - Create a new file named **bot.py** this will be the main file.
 - Create a new file named **Config.py** this file will contain the configuration parameters.
 - Create a new directory  named **handlers** this will contain message handler files.
-- Inside the handlers directory create a new file named **message_handler.py** this will contain the message handler logic.
+- Inside the handlers directory **create** a new file named **message_handler.py** this will contain the message handler logic.
 - Create a new file named **requirements.txt** this file will contain a list of python packages.
